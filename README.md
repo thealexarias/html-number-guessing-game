@@ -1,16 +1,13 @@
 # Guess A Number
 
+## Summary
+Let's create a simple number guessing game. The computer will pick a random number between 1 and 100 and you will have to guess that number.
+
 ## This challenge will help you to:
 - Implement HTML elements that use specific attributes to perform actions
 - Implement CSS styling using `id=`s and `class=`es
 - Use Javascript to interact with your web page or the Docuement Object Model (DOM)
-- Use HTML or DOM methods to edit, add, and delete elements on your webpage in real time.
 - __GET CREATIVE__
-
-## Summary
-Let's create a simple number guessing game. The computer will pick a random number between 1 and 100 and you will have to guess that number.
-
-### READING DOCUMENTATION IS KEY THROUGHOUT YOUR CAREER (80% reading, 20% coding)
 
 ## Requirements
 
@@ -50,13 +47,13 @@ Your Javascript file will automatically run when your HTML file loads in the web
 Here in your Javascript file you will write function(s) to that will manipulate your webpage and perform all the game logic.
 
 ```js
-console.log("HELLO PAPA PLATOON!")
+console.log("HELLO CODE PLATOON!")
 // Your function(s) should go here that will interact with the webpage or DOM
 ```
 
 ## CSS File
 
-Your CSS file is basically empty at the moment. Once you complete the Javascript portion of the Challenge have fun and start designing a sleak looking Guessing Game app.
+Your CSS file is basically empty at the moment. Once you complete the Javascript portion of the Challenge have fun and start designing a sleek looking Guessing Game app
 
 Remember, don't worry about styling to begin with.
 

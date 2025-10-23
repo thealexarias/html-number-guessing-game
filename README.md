@@ -6,7 +6,7 @@ Let's create a simple number guessing game. The computer will pick a random numb
 ## This challenge will help you to:
 - Implement HTML elements that use specific attributes to perform actions
 - Implement CSS styling using `id=`s and `class=`es
-- Use Javascript to interact with your web page or the Docuement Object Model (DOM)
+- Use Javascript to interact with your web page or the Document Object Model (DOM)
 - __GET CREATIVE__
 
 ## Requirements

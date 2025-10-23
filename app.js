@@ -4,7 +4,7 @@ console.log("HELLO PAPA PLATOON!")
 function guessingGame(min, max, userGuess){
 let randomNumber = Math.floor(Math.random() * (max - min + 1) + min);
 // const userGuess = prompt("Please enter a number from 1 - 100: ");
-if (isNaN(userGuess) || userGuess < 1 || userGuess > 100){ //come back and make sure userGuess can't be a decimal
+if (isNaN(userGuess) || userGuess < 1 || userGuess > 100 || !Number.isInteger(userGuess)){
 return "Invalid response"
 }
 else if(userGuess < randomNumber){
@@ -20,4 +20,4 @@ else if (userGuess === randomNumber){
 
 
 
-console.log(guessingGame(1,100,))
+console.log(guessingGame(1,100,2))
